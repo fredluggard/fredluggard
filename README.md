@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredluggard
-- 👀 I’m interested in web development and currently undergoing Zuri Cohort Training .
+- 👀 I’m interested in web development and currently undergoing training as a React developer.
 - 🌱 I’m currently learning javascript (React.JS) and Python (Django).
 - 💞️ I’m looking to collaborate on building reputable sites.
 - 📫 you can reach me on twitter @fredluggard
