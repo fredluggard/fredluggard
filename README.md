@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredluggard
 - 👀 I’m interested in web development and web3 related technologies.
-- 🌱 I’m currently learning javascript (React.JS) and Next.JS.
+- 🌱 I’m currently learning Data Structure and Algorithms (DSA)
 - 💞️ I’m looking to collaborate on building reputable projects.
 - 📫 you can reach me on twitter @fredluggard
 
